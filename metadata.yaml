@@ -1,0 +1,28 @@
+_repo: Kansan-keskelta-Kolme-kertomusta-Savosta_63135
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aho, Pekka
+    alias: Brofeldt, Pekka
+    birthdate: 1864
+    deathdate: 1945
+    gutenberg_agent_id: '52302'
+    url: http://www.gutenberg.org/2009/agents/52302
+    wikipedia: https://fi.wikipedia.org/wiki/Pekka_Brofeldt
+description: ''
+gutenberg_issued: '2020-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63135'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 19th century'
+- !lcc 'PH'
+- !lcsh 'Short stories, Finnish'
+- GITenberg
+tableOfContents: Sikamainen kertomus -- Köyhän kirkkomatka -- Alku-opetusta.
+title: 'Kansan keskeltä: Kolme kertomusta Savosta'
+url: http://www.gutenberg.org/ebooks/63135
